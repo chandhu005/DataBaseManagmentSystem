@@ -12,4 +12,4 @@ This repo contains all SQL Queries of the Basic Database Management Course of Co
 - Milestone 3
   - [SQL queries Assessment](./SQLqueriesAssessment/)
 # Coding Ninjas
-## Rate my Repo ⭐ !!!
+
